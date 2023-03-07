@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ssharmilee01/pwainstant.git/static/css/main.073c9b0a.css",
+    "main.js": "/ssharmilee01/pwainstant.git/static/js/main.a92bf7f4.js",
+    "static/js/787.bff718ee.chunk.js": "/ssharmilee01/pwainstant.git/static/js/787.bff718ee.chunk.js",
+    "service-worker.js": "/ssharmilee01/pwainstant.git/service-worker.js",
+    "static/media/logo.svg": "/ssharmilee01/pwainstant.git/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/ssharmilee01/pwainstant.git/index.html",
+    "main.073c9b0a.css.map": "/ssharmilee01/pwainstant.git/static/css/main.073c9b0a.css.map",
+    "main.a92bf7f4.js.map": "/ssharmilee01/pwainstant.git/static/js/main.a92bf7f4.js.map",
+    "787.bff718ee.chunk.js.map": "/ssharmilee01/pwainstant.git/static/js/787.bff718ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a92bf7f4.js"
+  ]
+}
